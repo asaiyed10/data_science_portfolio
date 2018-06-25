@@ -3,7 +3,7 @@ Data Science Portfilio
 
 ## Machine Learning
 
-Vector Matrices and Arrays
+[Vector Matrices and Arrays](asaiyed10/data_science_portfolio/Vectors_Matrices_Arrays/)
 
 Basics
 

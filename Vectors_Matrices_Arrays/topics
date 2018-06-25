@@ -1,0 +1,25 @@
+Libraries used:
+      numpy
+      sklearn
+      
+Topics covered:
+    Transpose A Vector Or Matrix
+    Selecting Elements In An Array
+    Reshape An Array
+    Invert A Matrix
+    Getting The Diagonal Of A Matrix
+    Flatten A Matrix
+    Find The Rank Of A Matrix
+    Find The Maximum And Minimum
+    Describe An Array
+    Create A Vector
+    Create A Sparse Matrix
+    Create A Matrix
+    Converting A Dictionary Into A Matrix
+    Calculate The Trace Of A Matrix
+    Calculate The Determinant Of A Matrix
+    Calculate The Average, Variance, And Standard Deviation
+    Calculate Dot Product Of Two Vectors
+    Apply Operations To Elements
+    Adding And Subtracting Matrices
+

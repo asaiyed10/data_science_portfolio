@@ -5,12 +5,11 @@ Data Science Portfilio
 
 [Vector Matrices and Arrays](Vectors_Matrices_Arrays/)
 
-Basics
+[Preprocessing Images](image_preprocessing/)
 
 Preprocessing Structured Data
 
 
-Preprocessing Images
 
 Preprocessing Text
 

@@ -1,0 +1,21 @@
+Libraries used: 
+    openCV
+    numpy
+    matplotlib
+    
+Topics covered: 
+    Binarize Images
+    Blurring Images
+    Cropping Images
+    Detect Edges
+    Enhance Contrast Of Color Image
+    Enhance Contrast Of Greyscale Image
+    Harris Corner Detector
+    Isolate Colors
+    Load Images
+    Remove Backgrounds
+    Save Images
+    Sharpen Images
+    Shi-Tomasi Corner Detector
+    Using Mean Color As A Feature
+

@@ -2,52 +2,18 @@ Data Science Portfilio
 ========
 
 ## Machine Learning
-
-[Vector Matrices and Arrays](Vectors_Matrices_Arrays/)
-
-[Preprocessing Images](image_preprocessing/)
-
-[Preprocessing Structured Data](data/)
-
-
-
-Preprocessing Text
-
-
-Feature Engineering 
-
-
-Feature Selection
-
-
+### Preprocessing Data 
+[Vector Matrices and Arrays](Vectors_Matrices_Arrays/)   [Preprocessing Images](image_preprocessing/)   
+[Preprocessing Structured Data](data/)  Preprocessing Text  Feature Engineering  Feature Selection
 Model Evaluation
 
-Linear Regression
+### Algorithms 
 
-Logistic Regression
+Linear Regression   Logistic Regression   Trees and Forests   Nearest Neighbors
 
-Trees and Forests
+Support Vector Machines   Naive Bayes   Clustering 
 
-Nearest Neighbors
-
-Support Vector Machines
-
-Naive Bayes
-
-Clustering 
-
-Decision Tree
-
-k-NN
-
-K-Means
-
-Random Forest
-
-PCA
-
-Gradient Boosting Algorithms 
-
+Decision Tree   k-NN   K-Means  Random Forest   PCA Gradient   Boosting Algorithms    
 
 
 ## Deep Learning

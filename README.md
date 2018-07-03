@@ -7,7 +7,7 @@ Data Science Portfilio
 
 [Preprocessing Images](image_preprocessing/)
 
-Preprocessing Structured Data(data/)
+[Preprocessing Structured Data](data/)
 
 
 

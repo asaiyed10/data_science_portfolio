@@ -3,7 +3,7 @@ Data Science Portfilio
 
 ## Machine Learning
 ### Preprocessing Data 
-[Vector Matrices and Arrays](Vectors_Matrices_Arrays/)   [Preprocessing Images](image_preprocessing/)   
+[Vector Matrices and Arrays](Vectors_Matrices_Arrays/)               [Preprocessing Images](image_preprocessing/)   
 [Preprocessing Structured Data](data/)  Preprocessing Text  Feature Engineering  Feature Selection
 Model Evaluation
 

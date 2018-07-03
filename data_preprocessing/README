@@ -1,1 +1,20 @@
 
+Convert Pandas Categorical Data For Scikit-Learn
+Delete Observations With Missing Values
+Deleting Missing Values
+Detecting Outliers
+Discretize Features
+Encoding Ordinal Categorical Features
+Handling Imbalanced Classes With Downsampling
+Handling Imbalanced Classes With Upsampling
+Handling Outliers
+Impute Missing Values With Means
+Imputing Missing Class Labels
+Imputing Missing Class Labels Using k-Nearest Neighbors
+Normalizing Observations
+One-Hot Encode Features With Multiple Labels
+One-Hot Encode Nominal Categorical Features
+Preprocessing Categorical Features
+Preprocessing Iris Data
+Rescale A Feature
+Standardize A Feature

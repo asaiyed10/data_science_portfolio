@@ -20,7 +20,7 @@ Nearest Neighbors
 Support Vector Machines  
 Naive Bayes   
 Clustering 
-
+Perceptron 
 Decision Tree  
 k-NN 
 K-Means
@@ -29,14 +29,19 @@ PCA Gradient
 Boosting Algorithms    
 
 
-## Deep Learning
+## Deep Learning 
+CNN 
+  Image Classificaiton Binary Output 
+  Image Analysis with Regression Output
+RNN
+  LSTM
+  
 
 
 
-
-## Python
-
-
+## Computer Vision 
+Identifying Startgards Disease in Retinas
+Counting Red and White Blood Cells 
 
 
 
